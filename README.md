@@ -1,5 +1,5 @@
-# lightOJ-Sol
-Light Online Judge Problems Solved By Md Fazle Rabby
-C++ Source Code Solution
+# Light-Online-Judge-Solutions
 
-Link : http://lightoj.com/index.php
+Soltion of the problems from [LightOJ](http://lightoj.com/index.php) Problems By Md Fazle Rabby
+
+C++ Source Code
