@@ -108,6 +108,7 @@ int Compute_Failure_Function(int len)
             k=Par[k-1];
         if(str1[k]==str1[i])
             k++;
+
         Par[i]=k;
         if(i>len1 && k==len1)
             cnt++;
@@ -138,6 +139,5 @@ int main()
         ans=Compute_Failure_Function(len);
         printf("Case %d: %d\n",Case++,ans);
     }
-
     return 0;
 }
